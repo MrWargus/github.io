@@ -1,0 +1,38 @@
+body {
+  background-color: lightBlue;
+  margin: 0;
+}
+.miHeader {
+  background-color: coral;
+  height: 100px;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+.nav {
+  background-color: white;
+  height: 100px;
+  width: 100px;
+  margin: 0;
+  position: fixed;
+  top: 0;
+  right: 0;
+  align-content: center;
+}
+.nav a {
+  background-color: #282754;
+  display: block;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  font-size: 14px;
+  border-radius: 3px;
+  width: 84%;
+  height: 15%;
+  margin: 8%;
+}
+.cuerpo {
+  position: fixed;
+  top: 200px;
+}
